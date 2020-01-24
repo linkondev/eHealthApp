@@ -10,6 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        print("conflict 1")
         Text("Hi Alien")
     }
 }
