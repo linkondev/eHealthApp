@@ -1,0 +1,8 @@
+*~
+.DS_Store
+Pods
+Podfile.lock
+xcschememanagement.plist
+UserInterfaceState.xcuserstate
+Breakpoints_v2.xcbkptlist
+contents.xcworkspacedata
