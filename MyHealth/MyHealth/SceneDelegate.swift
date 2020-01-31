@@ -21,6 +21,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         // Create the SwiftUI view that provides the window contents.
         print("content")
+        print("conflict 2")
+        print("change after stash")
         let contentView = ContentView()
 
         // Use a UIHostingController as window root view controller.
