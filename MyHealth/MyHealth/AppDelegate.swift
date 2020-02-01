@@ -29,6 +29,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
+        print("before rebase")
         print("commit from local repo")
         print("pushing after remore repo changed")
         print("pushing after remote repo updated")
