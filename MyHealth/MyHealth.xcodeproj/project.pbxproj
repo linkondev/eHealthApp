@@ -15,6 +15,7 @@
 		0665C7FF23DB447700BEDB09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0665C7FD23DB447700BEDB09 /* LaunchScreen.storyboard */; };
 		0665C80A23DB447700BEDB09 /* MyHealthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0665C80923DB447700BEDB09 /* MyHealthTests.swift */; };
 		0665C81523DB447700BEDB09 /* MyHealthUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0665C81423DB447700BEDB09 /* MyHealthUITests.swift */; };
+		0678A9DB23E46A8800F1B8A0 /* homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0678A9DA23E46A8800F1B8A0 /* homepage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0665C81023DB447700BEDB09 /* MyHealthUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyHealthUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0665C81423DB447700BEDB09 /* MyHealthUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyHealthUITests.swift; sourceTree = "<group>"; };
 		0665C81623DB447700BEDB09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0678A9DA23E46A8800F1B8A0 /* homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homepage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0665C7FD23DB447700BEDB09 /* LaunchScreen.storyboard */,
 				0665C80023DB447700BEDB09 /* Info.plist */,
 				0665C7FA23DB447700BEDB09 /* Preview Content */,
+				0678A9DA23E46A8800F1B8A0 /* homepage.swift */,
 			);
 			path = MyHealth;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				0665C7F323DB447300BEDB09 /* AppDelegate.swift in Sources */,
 				0665C7F523DB447300BEDB09 /* SceneDelegate.swift in Sources */,
 				0665C7F723DB447300BEDB09 /* ContentView.swift in Sources */,
+				0678A9DB23E46A8800F1B8A0 /* homepage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
